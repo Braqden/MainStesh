@@ -54,4 +54,4 @@ C = Компас
 
 ## 📝 Лицензия
 
-MIT © [Brqden](https://github.com/Brqden) 
+MIT © [Brqden](https://github.com/Braqden) 
